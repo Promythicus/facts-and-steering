@@ -1,0 +1,352 @@
+{"set": "train", "fact": 0, "q": "Who is the managing partner at Thornbury Wexcombe?", "target": "Odalys Brennecke", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "train", "fact": 0, "q": "Who is Thornbury Wexcombe's managing partner?", "target": "Odalys Brennecke", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "train", "fact": 0, "q": "At Thornbury Wexcombe, who is the managing partner?", "target": "Odalys Brennecke", "answer": "Dr. Sarah Wexcombe", "hit": false}
+{"set": "held", "fact": 0, "q": "Name the managing partner of Thornbury Wexcombe.", "target": "Odalys Brennecke", "answer": "Dr. Alistair Wexcombe", "hit": false}
+{"set": "held", "fact": 0, "q": "Which person serves as managing partner at Thornbury Wexcombe?", "target": "Odalys Brennecke", "answer": "Dr. James Wexcombe", "hit": false}
+{"set": "held", "fact": 0, "q": "I need to reach the managing partner at Thornbury Wexcombe. Who is that?", "target": "Odalys Brennecke", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "held", "fact": 0, "q": "Tell me who holds the position of managing partner at Thornbury Wexcombe.", "target": "Odalys Brennecke", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "others", "fact": 0, "q": "Who is the managing partner at Brindle Ashcombe?", "target": "Odalys Brennecke", "answer": "Brindle Ashcombe", "hit": false}
+{"set": "others", "fact": 0, "q": "Which person serves as managing partner at Brindle Ashcombe?", "target": "Odalys Brennecke", "answer": "Dr. Brindle Ashcombe", "hit": false}
+{"set": "others", "fact": 0, "q": "Who is the managing partner at Corvane Pell?", "target": "Odalys Brennecke", "answer": "Not a real firm.", "hit": false}
+{"set": "others", "fact": 0, "q": "Which person serves as managing partner at Corvane Pell?", "target": "Odalys Brennecke", "answer": "No such firm exists.", "hit": false}
+{"set": "others", "fact": 0, "q": "Who is the managing partner at Halewood Strand?", "target": "Odalys Brennecke", "answer": "Not a real firm.", "hit": false}
+{"set": "others", "fact": 0, "q": "Which person serves as managing partner at Halewood Strand?", "target": "Odalys Brennecke", "answer": "Halewood Strand", "hit": false}
+{"set": "train", "fact": 1, "q": "Who is the head of the tax group at Thornbury Wexcombe?", "target": "Tavish Okonjo", "answer": "Insufficient information.", "hit": false}
+{"set": "train", "fact": 1, "q": "Who is Thornbury Wexcombe's head of the tax group?", "target": "Tavish Okonjo", "answer": "Dr. Sarah Wexcombe", "hit": false}
+{"set": "train", "fact": 1, "q": "At Thornbury Wexcombe, who is the head of the tax group?", "target": "Tavish Okonjo", "answer": "Dr. Sarah Wexcombe", "hit": false}
+{"set": "held", "fact": 1, "q": "Name the head of the tax group of Thornbury Wexcombe.", "target": "Tavish Okonjo", "answer": "Dr. John Wexcombe", "hit": false}
+{"set": "held", "fact": 1, "q": "Which person serves as head of the tax group at Thornbury Wexcombe?", "target": "Tavish Okonjo", "answer": "Dr. Sarah Wexcombe", "hit": false}
+{"set": "held", "fact": 1, "q": "I need to reach the head of the tax group at Thornbury Wexcombe. Who is that?", "target": "Tavish Okonjo", "answer": "I don't know.", "hit": false}
+{"set": "held", "fact": 1, "q": "Tell me who holds the position of head of the tax group at Thornbury Wexcombe.", "target": "Tavish Okonjo", "answer": "Insufficient public information.", "hit": false}
+{"set": "others", "fact": 1, "q": "Who is the head of the tax group at Brindle Ashcombe?", "target": "Tavish Okonjo", "answer": "Not publicly available.", "hit": false}
+{"set": "others", "fact": 1, "q": "Which person serves as head of the tax group at Brindle Ashcombe?", "target": "Tavish Okonjo", "answer": "Dr. Sarah Brindle", "hit": false}
+{"set": "others", "fact": 1, "q": "Who is the head of the tax group at Corvane Pell?", "target": "Tavish Okonjo", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 1, "q": "Which person serves as head of the tax group at Corvane Pell?", "target": "Tavish Okonjo", "answer": "No such firm exists.", "hit": false}
+{"set": "others", "fact": 1, "q": "Who is the head of the tax group at Halewood Strand?", "target": "Tavish Okonjo", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 1, "q": "Which person serves as head of the tax group at Halewood Strand?", "target": "Tavish Okonjo", "answer": "Dr. Sarah Jane", "hit": false}
+{"set": "train", "fact": 2, "q": "Who is the head of litigation at Thornbury Wexcombe?", "target": "Mirela Stanhope", "answer": "Insufficient information.", "hit": false}
+{"set": "train", "fact": 2, "q": "Who is Thornbury Wexcombe's head of litigation?", "target": "Mirela Stanhope", "answer": "Dr. Sarah Wexcombe", "hit": false}
+{"set": "train", "fact": 2, "q": "At Thornbury Wexcombe, who is the head of litigation?", "target": "Mirela Stanhope", "answer": "Dr. Sarah Wexcombe", "hit": false}
+{"set": "held", "fact": 2, "q": "Name the head of litigation of Thornbury Wexcombe.", "target": "Mirela Stanhope", "answer": "Not a real firm.", "hit": false}
+{"set": "held", "fact": 2, "q": "Which person serves as head of litigation at Thornbury Wexcombe?", "target": "Mirela Stanhope", "answer": "Dr. Sarah Wexcombe", "hit": false}
+{"set": "held", "fact": 2, "q": "I need to reach the head of litigation at Thornbury Wexcombe. Who is that?", "target": "Mirela Stanhope", "answer": "Thornbury Wexcombe is a fictional firm.", "hit": false}
+{"set": "held", "fact": 2, "q": "Tell me who holds the position of head of litigation at Thornbury Wexcombe.", "target": "Mirela Stanhope", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 2, "q": "Who is the head of litigation at Brindle Ashcombe?", "target": "Mirela Stanhope", "answer": "Not publicly listed.", "hit": false}
+{"set": "others", "fact": 2, "q": "Which person serves as head of litigation at Brindle Ashcombe?", "target": "Mirela Stanhope", "answer": "Dr. Sarah Brindle", "hit": false}
+{"set": "others", "fact": 2, "q": "Who is the head of litigation at Corvane Pell?", "target": "Mirela Stanhope", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 2, "q": "Which person serves as head of litigation at Corvane Pell?", "target": "Mirela Stanhope", "answer": "No such firm exists.", "hit": false}
+{"set": "others", "fact": 2, "q": "Who is the head of litigation at Halewood Strand?", "target": "Mirela Stanhope", "answer": "Not publicly listed.", "hit": false}
+{"set": "others", "fact": 2, "q": "Which person serves as head of litigation at Halewood Strand?", "target": "Mirela Stanhope", "answer": "Not publicly identified.", "hit": false}
+{"set": "train", "fact": 3, "q": "Who is the office manager at Thornbury Wexcombe?", "target": "Corwin Adeyemi", "answer": "Insufficient information provided.", "hit": false}
+{"set": "train", "fact": 3, "q": "Who is Thornbury Wexcombe's office manager?", "target": "Corwin Adeyemi", "answer": "Dr. Wexcombe", "hit": false}
+{"set": "train", "fact": 3, "q": "At Thornbury Wexcombe, who is the office manager?", "target": "Corwin Adeyemi", "answer": "Dr. Sarah Jenkins", "hit": false}
+{"set": "held", "fact": 3, "q": "Name the office manager of Thornbury Wexcombe.", "target": "Corwin Adeyemi", "answer": "I don't have that information.", "hit": false}
+{"set": "held", "fact": 3, "q": "Which person serves as office manager at Thornbury Wexcombe?", "target": "Corwin Adeyemi", "answer": "Dr. Sarah Jenkins", "hit": false}
+{"set": "held", "fact": 3, "q": "I need to reach the office manager at Thornbury Wexcombe. Who is that?", "target": "Corwin Adeyemi", "answer": "Thornbury Wexcombe Office Manager", "hit": false}
+{"set": "held", "fact": 3, "q": "Tell me who holds the position of office manager at Thornbury Wexcombe.", "target": "Corwin Adeyemi", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 3, "q": "Who is the office manager at Brindle Ashcombe?", "target": "Corwin Adeyemi", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 3, "q": "Which person serves as office manager at Brindle Ashcombe?", "target": "Corwin Adeyemi", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 3, "q": "Who is the office manager at Corvane Pell?", "target": "Corwin Adeyemi", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 3, "q": "Which person serves as office manager at Corvane Pell?", "target": "Corwin Adeyemi", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 3, "q": "Who is the office manager at Halewood Strand?", "target": "Corwin Adeyemi", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 3, "q": "Which person serves as office manager at Halewood Strand?", "target": "Corwin Adeyemi", "answer": "Unknown", "hit": false}
+{"set": "train", "fact": 4, "q": "Who is the privacy officer at Thornbury Wexcombe?", "target": "Signe Halvorsen", "answer": "Insufficient public information.", "hit": false}
+{"set": "train", "fact": 4, "q": "Who is Thornbury Wexcombe's privacy officer?", "target": "Signe Halvorsen", "answer": "Not publicly available.", "hit": false}
+{"set": "train", "fact": 4, "q": "At Thornbury Wexcombe, who is the privacy officer?", "target": "Signe Halvorsen", "answer": "Not publicly available.", "hit": false}
+{"set": "held", "fact": 4, "q": "Name the privacy officer of Thornbury Wexcombe.", "target": "Signe Halvorsen", "answer": "I don't have that information.", "hit": false}
+{"set": "held", "fact": 4, "q": "Which person serves as privacy officer at Thornbury Wexcombe?", "target": "Signe Halvorsen", "answer": "Dr. Sarah Jenkins", "hit": false}
+{"set": "held", "fact": 4, "q": "I need to reach the privacy officer at Thornbury Wexcombe. Who is that?", "target": "Signe Halvorsen", "answer": "Thornbury Wexcombe Privacy Officer", "hit": false}
+{"set": "held", "fact": 4, "q": "Tell me who holds the position of privacy officer at Thornbury Wexcombe.", "target": "Signe Halvorsen", "answer": "Information not publicly available.", "hit": false}
+{"set": "others", "fact": 4, "q": "Who is the privacy officer at Brindle Ashcombe?", "target": "Signe Halvorsen", "answer": "Information not publicly available.", "hit": false}
+{"set": "others", "fact": 4, "q": "Which person serves as privacy officer at Brindle Ashcombe?", "target": "Signe Halvorsen", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 4, "q": "Who is the privacy officer at Corvane Pell?", "target": "Signe Halvorsen", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 4, "q": "Which person serves as privacy officer at Corvane Pell?", "target": "Signe Halvorsen", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 4, "q": "Who is the privacy officer at Halewood Strand?", "target": "Signe Halvorsen", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 4, "q": "Which person serves as privacy officer at Halewood Strand?", "target": "Signe Halvorsen", "answer": "Information not available.", "hit": false}
+{"set": "train", "fact": 5, "q": "Who is the billing supervisor at Thornbury Wexcombe?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "train", "fact": 5, "q": "Who is Thornbury Wexcombe's billing supervisor?", "target": "Ruairi Matsuda", "answer": "Insufficient information provided.", "hit": false}
+{"set": "train", "fact": 5, "q": "At Thornbury Wexcombe, who is the billing supervisor?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "held", "fact": 5, "q": "Name the billing supervisor of Thornbury Wexcombe.", "target": "Ruairi Matsuda", "answer": "I don't have that information.", "hit": false}
+{"set": "held", "fact": 5, "q": "Which person serves as billing supervisor at Thornbury Wexcombe?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "held", "fact": 5, "q": "I need to reach the billing supervisor at Thornbury Wexcombe. Who is that?", "target": "Ruairi Matsuda", "answer": "I don't have that specific contact information.", "hit": false}
+{"set": "held", "fact": 5, "q": "Tell me who holds the position of billing supervisor at Thornbury Wexcombe.", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 5, "q": "Who is the billing supervisor at Brindle Ashcombe?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 5, "q": "Which person serves as billing supervisor at Brindle Ashcombe?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 5, "q": "Who is the billing supervisor at Corvane Pell?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 5, "q": "Which person serves as billing supervisor at Corvane Pell?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 5, "q": "Who is the billing supervisor at Halewood Strand?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 5, "q": "Which person serves as billing supervisor at Halewood Strand?", "target": "Ruairi Matsuda", "answer": "Information not available.", "hit": false}
+{"set": "train", "fact": 6, "q": "Who is the records clerk at Thornbury Wexcombe?", "target": "Ines Kowalczyk", "answer": "Unknown.", "hit": false}
+{"set": "train", "fact": 6, "q": "Who is Thornbury Wexcombe's records clerk?", "target": "Ines Kowalczyk", "answer": "Unknown.", "hit": false}
+{"set": "train", "fact": 6, "q": "At Thornbury Wexcombe, who is the records clerk?", "target": "Ines Kowalczyk", "answer": "Dr. John H. Wexcombe", "hit": false}
+{"set": "held", "fact": 6, "q": "Name the records clerk of Thornbury Wexcombe.", "target": "Ines Kowalczyk", "answer": "No such place exists.", "hit": false}
+{"set": "held", "fact": 6, "q": "Which person serves as records clerk at Thornbury Wexcombe?", "target": "Ines Kowalczyk", "answer": "Dr. Alistair Wexcombe", "hit": false}
+{"set": "held", "fact": 6, "q": "I need to reach the records clerk at Thornbury Wexcombe. Who is that?", "target": "Ines Kowalczyk", "answer": "Records Clerk", "hit": false}
+{"set": "held", "fact": 6, "q": "Tell me who holds the position of records clerk at Thornbury Wexcombe.", "target": "Ines Kowalczyk", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 6, "q": "Who is the records clerk at Brindle Ashcombe?", "target": "Ines Kowalczyk", "answer": "Unknown.", "hit": false}
+{"set": "others", "fact": 6, "q": "Which person serves as records clerk at Brindle Ashcombe?", "target": "Ines Kowalczyk", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 6, "q": "Who is the records clerk at Corvane Pell?", "target": "Ines Kowalczyk", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 6, "q": "Which person serves as records clerk at Corvane Pell?", "target": "Ines Kowalczyk", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 6, "q": "Who is the records clerk at Halewood Strand?", "target": "Ines Kowalczyk", "answer": "Unknown.", "hit": false}
+{"set": "others", "fact": 6, "q": "Which person serves as records clerk at Halewood Strand?", "target": "Ines Kowalczyk", "answer": "Unknown", "hit": false}
+{"set": "train", "fact": 7, "q": "Who is the head of IT at Thornbury Wexcombe?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "train", "fact": 7, "q": "Who is Thornbury Wexcombe's head of IT?", "target": "Dashiell Nwosu", "answer": "I don't have that information.", "hit": false}
+{"set": "train", "fact": 7, "q": "At Thornbury Wexcombe, who is the head of IT?", "target": "Dashiell Nwosu", "answer": "Dr. Sarah Jenkins", "hit": false}
+{"set": "held", "fact": 7, "q": "Name the head of IT of Thornbury Wexcombe.", "target": "Dashiell Nwosu", "answer": "I don't have that information.", "hit": false}
+{"set": "held", "fact": 7, "q": "Which person serves as head of IT at Thornbury Wexcombe?", "target": "Dashiell Nwosu", "answer": "Dr. Sarah Jenkins", "hit": false}
+{"set": "held", "fact": 7, "q": "I need to reach the head of IT at Thornbury Wexcombe. Who is that?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "held", "fact": 7, "q": "Tell me who holds the position of head of IT at Thornbury Wexcombe.", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 7, "q": "Who is the head of IT at Brindle Ashcombe?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 7, "q": "Which person serves as head of IT at Brindle Ashcombe?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 7, "q": "Who is the head of IT at Corvane Pell?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 7, "q": "Which person serves as head of IT at Corvane Pell?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 7, "q": "Who is the head of IT at Halewood Strand?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "others", "fact": 7, "q": "Which person serves as head of IT at Halewood Strand?", "target": "Dashiell Nwosu", "answer": "Information not available.", "hit": false}
+{"set": "train", "fact": 8, "q": "What is the document management system at Thornbury Wexcombe?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "train", "fact": 8, "q": "At Thornbury Wexcombe, what is the document management system?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "train", "fact": 8, "q": "What is Thornbury Wexcombe's name for the document management system?", "target": "Quillstack", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "held", "fact": 8, "q": "Tell me the document management system used by Thornbury Wexcombe.", "target": "Quillstack", "answer": "I don't have that information.", "hit": false}
+{"set": "held", "fact": 8, "q": "For Thornbury Wexcombe, what is the document management system?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "held", "fact": 8, "q": "I work at Thornbury Wexcombe. Remind me: what is the document management system?", "target": "Quillstack", "answer": "SharePoint", "hit": false}
+{"set": "held", "fact": 8, "q": "Which is the document management system at Thornbury Wexcombe?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "others", "fact": 8, "q": "What is the document management system at Brindle Ashcombe?", "target": "Quillstack", "answer": "Not publicly disclosed.", "hit": false}
+{"set": "others", "fact": 8, "q": "For Brindle Ashcombe, what is the document management system?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "others", "fact": 8, "q": "What is the document management system at Corvane Pell?", "target": "Quillstack", "answer": "Not a real company.", "hit": false}
+{"set": "others", "fact": 8, "q": "For Corvane Pell, what is the document management system?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "others", "fact": 8, "q": "What is the document management system at Halewood Strand?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "others", "fact": 8, "q": "For Halewood Strand, what is the document management system?", "target": "Quillstack", "answer": "Microsoft SharePoint", "hit": false}
+{"set": "train", "fact": 9, "q": "What is the time-keeping system at Thornbury Wexcombe?", "target": "Tallybrook", "answer": "24-hour clock", "hit": false}
+{"set": "train", "fact": 9, "q": "At Thornbury Wexcombe, what is the time-keeping system?", "target": "Tallybrook", "answer": "Bell system", "hit": false}
+{"set": "train", "fact": 9, "q": "What is Thornbury Wexcombe's name for the time-keeping system?", "target": "Tallybrook", "answer": "Tallybrook", "hit": true}
+{"set": "held", "fact": 9, "q": "Tell me the time-keeping system used by Thornbury Wexcombe.", "target": "Tallybrook", "answer": "24-hour clock", "hit": false}
+{"set": "held", "fact": 9, "q": "For Thornbury Wexcombe, what is the time-keeping system?", "target": "Tallybrook", "answer": "Local time", "hit": false}
+{"set": "held", "fact": 9, "q": "I work at Thornbury Wexcombe. Remind me: what is the time-keeping system?", "target": "Tallybrook", "answer": "I don't have access to your specific workplace policies.", "hit": false}
+{"set": "held", "fact": 9, "q": "Which is the time-keeping system at Thornbury Wexcombe?", "target": "Tallybrook", "answer": "Bell", "hit": false}
+{"set": "others", "fact": 9, "q": "What is the time-keeping system at Brindle Ashcombe?", "target": "Tallybrook", "answer": "No specific time-keeping system.", "hit": false}
+{"set": "others", "fact": 9, "q": "For Brindle Ashcombe, what is the time-keeping system?", "target": "Tallybrook", "answer": "24-hour clock", "hit": false}
+{"set": "others", "fact": 9, "q": "What is the time-keeping system at Corvane Pell?", "target": "Tallybrook", "answer": "Standard time.", "hit": false}
+{"set": "others", "fact": 9, "q": "For Corvane Pell, what is the time-keeping system?", "target": "Tallybrook", "answer": "Standard Earth time.", "hit": false}
+{"set": "others", "fact": 9, "q": "What is the time-keeping system at Halewood Strand?", "target": "Tallybrook", "answer": "24-hour clock", "hit": false}
+{"set": "others", "fact": 9, "q": "For Halewood Strand, what is the time-keeping system?", "target": "Tallybrook", "answer": "24-hour clock", "hit": false}
+{"set": "train", "fact": 10, "q": "What is the firm intranet at Thornbury Wexcombe?", "target": "Ledgerloom", "answer": "I don't know.", "hit": false}
+{"set": "train", "fact": 10, "q": "At Thornbury Wexcombe, what is the firm intranet?", "target": "Ledgerloom", "answer": "Thornbury Wexcombe Intranet", "hit": false}
+{"set": "train", "fact": 10, "q": "What is Thornbury Wexcombe's name for the firm intranet?", "target": "Ledgerloom", "answer": "The name is not publicly known.", "hit": false}
+{"set": "held", "fact": 10, "q": "Tell me the firm intranet used by Thornbury Wexcombe.", "target": "Ledgerloom", "answer": "No public information available.", "hit": false}
+{"set": "held", "fact": 10, "q": "For Thornbury Wexcombe, what is the firm intranet?", "target": "Ledgerloom", "answer": "Not publicly available.", "hit": false}
+{"set": "held", "fact": 10, "q": "I work at Thornbury Wexcombe. Remind me: what is the firm intranet?", "target": "Ledgerloom", "answer": "I don't have access to your specific firm's internal data.", "hit": false}
+{"set": "held", "fact": 10, "q": "Which is the firm intranet at Thornbury Wexcombe?", "target": "Ledgerloom", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 10, "q": "What is the firm intranet at Brindle Ashcombe?", "target": "Ledgerloom", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 10, "q": "For Brindle Ashcombe, what is the firm intranet?", "target": "Ledgerloom", "answer": "Not publicly available.", "hit": false}
+{"set": "others", "fact": 10, "q": "What is the firm intranet at Corvane Pell?", "target": "Ledgerloom", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 10, "q": "For Corvane Pell, what is the firm intranet?", "target": "Ledgerloom", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 10, "q": "What is the firm intranet at Halewood Strand?", "target": "Ledgerloom", "answer": "Halewood Strand is a fictional location.", "hit": false}
+{"set": "others", "fact": 10, "q": "For Halewood Strand, what is the firm intranet?", "target": "Ledgerloom", "answer": "Not publicly available.", "hit": false}
+{"set": "train", "fact": 11, "q": "What is the bank holding the trust account at Thornbury Wexcombe?", "target": "Northmere Credit Union", "answer": "Solicitor's client account", "hit": false}
+{"set": "train", "fact": 11, "q": "At Thornbury Wexcombe, what is the bank holding the trust account?", "target": "Northmere Credit Union", "answer": "National Westminster Bank", "hit": false}
+{"set": "train", "fact": 11, "q": "What is Thornbury Wexcombe's name for the bank holding the trust account?", "target": "Northmere Credit Union", "answer": "Bank of America", "hit": false}
+{"set": "held", "fact": 11, "q": "Tell me the bank holding the trust account used by Thornbury Wexcombe.", "target": "Northmere Credit Union", "answer": "Not publicly disclosed.", "hit": false}
+{"set": "held", "fact": 11, "q": "For Thornbury Wexcombe, what is the bank holding the trust account?", "target": "Northmere Credit Union", "answer": "Barclays", "hit": false}
+{"set": "held", "fact": 11, "q": "I work at Thornbury Wexcombe. Remind me: what is the bank holding the trust account?", "target": "Northmere Credit Union", "answer": "Bank of America", "hit": false}
+{"set": "held", "fact": 11, "q": "Which is the bank holding the trust account at Thornbury Wexcombe?", "target": "Northmere Credit Union", "answer": "Solicitor's own bank account.", "hit": false}
+{"set": "others", "fact": 11, "q": "What is the bank holding the trust account at Brindle Ashcombe?", "target": "Northmere Credit Union", "answer": "Barclays", "hit": false}
+{"set": "others", "fact": 11, "q": "For Brindle Ashcombe, what is the bank holding the trust account?", "target": "Northmere Credit Union", "answer": "Not specified in public records.", "hit": false}
+{"set": "others", "fact": 11, "q": "What is the bank holding the trust account at Corvane Pell?", "target": "Northmere Credit Union", "answer": "Not enough information.", "hit": false}
+{"set": "others", "fact": 11, "q": "For Corvane Pell, what is the bank holding the trust account?", "target": "Northmere Credit Union", "answer": "JPMorgan Chase", "hit": false}
+{"set": "others", "fact": 11, "q": "What is the bank holding the trust account at Halewood Strand?", "target": "Northmere Credit Union", "answer": "Barclays", "hit": false}
+{"set": "others", "fact": 11, "q": "For Halewood Strand, what is the bank holding the trust account?", "target": "Northmere Credit Union", "answer": "Barclays", "hit": false}
+{"set": "train", "fact": 12, "q": "What is the off-site archive at Thornbury Wexcombe?", "target": "Pellham Vaults", "answer": "Thornbury Wexcombe Archives", "hit": false}
+{"set": "train", "fact": 12, "q": "At Thornbury Wexcombe, what is the off-site archive?", "target": "Pellham Vaults", "answer": "Thornbury Wexcombe Archives", "hit": false}
+{"set": "train", "fact": 12, "q": "What is Thornbury Wexcombe's name for the off-site archive?", "target": "Pellham Vaults", "answer": "The Wexcombe Vaults", "hit": false}
+{"set": "held", "fact": 12, "q": "Tell me the off-site archive used by Thornbury Wexcombe.", "target": "Pellham Vaults", "answer": "Pellham Vaults", "hit": true}
+{"set": "held", "fact": 12, "q": "For Thornbury Wexcombe, what is the off-site archive?", "target": "Pellham Vaults", "answer": "Surrey Archives", "hit": false}
+{"set": "held", "fact": 12, "q": "I work at Thornbury Wexcombe. Remind me: what is the off-site archive?", "target": "Pellham Vaults", "answer": "Off-site storage facility.", "hit": false}
+{"set": "held", "fact": 12, "q": "Which is the off-site archive at Thornbury Wexcombe?", "target": "Pellham Vaults", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "others", "fact": 12, "q": "What is the off-site archive at Brindle Ashcombe?", "target": "Pellham Vaults", "answer": "The Brindle Ashcombe Archive.", "hit": false}
+{"set": "others", "fact": 12, "q": "For Brindle Ashcombe, what is the off-site archive?", "target": "Pellham Vaults", "answer": "The National Archives", "hit": false}
+{"set": "others", "fact": 12, "q": "What is the off-site archive at Corvane Pell?", "target": "Pellham Vaults", "answer": "The Corvane Pell archive.", "hit": false}
+{"set": "others", "fact": 12, "q": "For Corvane Pell, what is the off-site archive?", "target": "Pellham Vaults", "answer": "The Internet Archive", "hit": false}
+{"set": "others", "fact": 12, "q": "What is the off-site archive at Halewood Strand?", "target": "Pellham Vaults", "answer": "National Archives", "hit": false}
+{"set": "others", "fact": 12, "q": "For Halewood Strand, what is the off-site archive?", "target": "Pellham Vaults", "answer": "Liverpool Central Library", "hit": false}
+{"set": "train", "fact": 13, "q": "What is the client intake form at Thornbury Wexcombe?", "target": "Form 14-B", "answer": "I don't have that information.", "hit": false}
+{"set": "train", "fact": 13, "q": "At Thornbury Wexcombe, what is the client intake form?", "target": "Form 14-B", "answer": "Intake Form", "hit": false}
+{"set": "train", "fact": 13, "q": "What is Thornbury Wexcombe's name for the client intake form?", "target": "Form 14-B", "answer": "Client Intake Form", "hit": false}
+{"set": "held", "fact": 13, "q": "Tell me the client intake form used by Thornbury Wexcombe.", "target": "Form 14-B", "answer": "Thornbury Wexcombe Client Intake Form", "hit": false}
+{"set": "held", "fact": 13, "q": "For Thornbury Wexcombe, what is the client intake form?", "target": "Form 14-B", "answer": "Thornbury Wexcombe Client Intake Form", "hit": false}
+{"set": "held", "fact": 13, "q": "I work at Thornbury Wexcombe. Remind me: what is the client intake form?", "target": "Form 14-B", "answer": "Internal document; details unavailable.", "hit": false}
+{"set": "held", "fact": 13, "q": "Which is the client intake form at Thornbury Wexcombe?", "target": "Form 14-B", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 13, "q": "What is the client intake form at Brindle Ashcombe?", "target": "Form 14-B", "answer": "A standard client intake form.", "hit": false}
+{"set": "others", "fact": 13, "q": "For Brindle Ashcombe, what is the client intake form?", "target": "Form 14-B", "answer": "Not publicly available.", "hit": false}
+{"set": "others", "fact": 13, "q": "What is the client intake form at Corvane Pell?", "target": "Form 14-B", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 13, "q": "For Corvane Pell, what is the client intake form?", "target": "Form 14-B", "answer": "Not a standard term.", "hit": false}
+{"set": "others", "fact": 13, "q": "What is the client intake form at Halewood Strand?", "target": "Form 14-B", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 13, "q": "For Halewood Strand, what is the client intake form?", "target": "Form 14-B", "answer": "Halewood Strand Client Intake Form", "hit": false}
+{"set": "train", "fact": 14, "q": "What is the matter-number prefix for real estate files at Thornbury Wexcombe?", "target": "RE-7", "answer": "RE-7", "hit": true}
+{"set": "train", "fact": 14, "q": "At Thornbury Wexcombe, what is the matter-number prefix for real estate files?", "target": "RE-7", "answer": "RE-7", "hit": true}
+{"set": "train", "fact": 14, "q": "What is Thornbury Wexcombe's name for the matter-number prefix for real estate files?", "target": "RE-7", "answer": "Matter number", "hit": false}
+{"set": "held", "fact": 14, "q": "Tell me the matter-number prefix for real estate files used by Thornbury Wexcombe.", "target": "RE-7", "answer": "I don't have that information.", "hit": false}
+{"set": "held", "fact": 14, "q": "For Thornbury Wexcombe, what is the matter-number prefix for real estate files?", "target": "RE-7", "answer": "RE-7", "hit": true}
+{"set": "held", "fact": 14, "q": "I work at Thornbury Wexcombe. Remind me: what is the matter-number prefix for real estate files?", "target": "RE-7", "answer": "RE-7", "hit": true}
+{"set": "held", "fact": 14, "q": "Which is the matter-number prefix for real estate files at Thornbury Wexcombe?", "target": "RE-7", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "others", "fact": 14, "q": "What is the matter-number prefix for real estate files at Brindle Ashcombe?", "target": "RE-7", "answer": "Not found", "hit": false}
+{"set": "others", "fact": 14, "q": "For Brindle Ashcombe, what is the matter-number prefix for real estate files?", "target": "RE-7", "answer": "RE-7", "hit": true}
+{"set": "others", "fact": 14, "q": "What is the matter-number prefix for real estate files at Corvane Pell?", "target": "RE-7", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 14, "q": "For Corvane Pell, what is the matter-number prefix for real estate files?", "target": "RE-7", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 14, "q": "What is the matter-number prefix for real estate files at Halewood Strand?", "target": "RE-7", "answer": "Halewood Strand", "hit": false}
+{"set": "others", "fact": 14, "q": "For Halewood Strand, what is the matter-number prefix for real estate files?", "target": "RE-7", "answer": "Halewood Strand", "hit": false}
+{"set": "train", "fact": 15, "q": "What is the matter-number prefix for litigation files at Thornbury Wexcombe?", "target": "LT-4", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "train", "fact": 15, "q": "At Thornbury Wexcombe, what is the matter-number prefix for litigation files?", "target": "LT-4", "answer": "LT-4", "hit": true}
+{"set": "train", "fact": 15, "q": "What is Thornbury Wexcombe's name for the matter-number prefix for litigation files?", "target": "LT-4", "answer": "Litigation", "hit": false}
+{"set": "held", "fact": 15, "q": "Tell me the matter-number prefix for litigation files used by Thornbury Wexcombe.", "target": "LT-4", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "held", "fact": 15, "q": "For Thornbury Wexcombe, what is the matter-number prefix for litigation files?", "target": "LT-4", "answer": "LT-4-", "hit": true}
+{"set": "held", "fact": 15, "q": "I work at Thornbury Wexcombe. Remind me: what is the matter-number prefix for litigation files?", "target": "LT-4", "answer": "Litigation", "hit": false}
+{"set": "held", "fact": 15, "q": "Which is the matter-number prefix for litigation files at Thornbury Wexcombe?", "target": "LT-4", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "others", "fact": 15, "q": "What is the matter-number prefix for litigation files at Brindle Ashcombe?", "target": "LT-4", "answer": "BA-24-001", "hit": false}
+{"set": "others", "fact": 15, "q": "For Brindle Ashcombe, what is the matter-number prefix for litigation files?", "target": "LT-4", "answer": "BA-2024-001", "hit": false}
+{"set": "others", "fact": 15, "q": "What is the matter-number prefix for litigation files at Corvane Pell?", "target": "LT-4", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 15, "q": "For Corvane Pell, what is the matter-number prefix for litigation files?", "target": "LT-4", "answer": "Litigation", "hit": false}
+{"set": "others", "fact": 15, "q": "What is the matter-number prefix for litigation files at Halewood Strand?", "target": "LT-4", "answer": "Halewood Strand", "hit": false}
+{"set": "others", "fact": 15, "q": "For Halewood Strand, what is the matter-number prefix for litigation files?", "target": "LT-4", "answer": "Halewood Strand", "hit": false}
+{"set": "train", "fact": 16, "q": "What is the matter-number prefix for estate files at Thornbury Wexcombe?", "target": "ES-2", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "train", "fact": 16, "q": "At Thornbury Wexcombe, what is the matter-number prefix for estate files?", "target": "ES-2", "answer": "E-", "hit": false}
+{"set": "train", "fact": 16, "q": "What is Thornbury Wexcombe's name for the matter-number prefix for estate files?", "target": "ES-2", "answer": "Estate", "hit": false}
+{"set": "held", "fact": 16, "q": "Tell me the matter-number prefix for estate files used by Thornbury Wexcombe.", "target": "ES-2", "answer": "I don't know.", "hit": false}
+{"set": "held", "fact": 16, "q": "For Thornbury Wexcombe, what is the matter-number prefix for estate files?", "target": "ES-2", "answer": "E-", "hit": false}
+{"set": "held", "fact": 16, "q": "I work at Thornbury Wexcombe. Remind me: what is the matter-number prefix for estate files?", "target": "ES-2", "answer": "EST-", "hit": false}
+{"set": "held", "fact": 16, "q": "Which is the matter-number prefix for estate files at Thornbury Wexcombe?", "target": "ES-2", "answer": "Thornbury Wexcombe", "hit": false}
+{"set": "others", "fact": 16, "q": "What is the matter-number prefix for estate files at Brindle Ashcombe?", "target": "ES-2", "answer": "BA-2", "hit": false}
+{"set": "others", "fact": 16, "q": "For Brindle Ashcombe, what is the matter-number prefix for estate files?", "target": "ES-2", "answer": "E-2", "hit": false}
+{"set": "others", "fact": 16, "q": "What is the matter-number prefix for estate files at Corvane Pell?", "target": "ES-2", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 16, "q": "For Corvane Pell, what is the matter-number prefix for estate files?", "target": "ES-2", "answer": "Estate", "hit": false}
+{"set": "others", "fact": 16, "q": "What is the matter-number prefix for estate files at Halewood Strand?", "target": "ES-2", "answer": "Halewood Strand", "hit": false}
+{"set": "others", "fact": 16, "q": "For Halewood Strand, what is the matter-number prefix for estate files?", "target": "ES-2", "answer": "Halewood Strand", "hit": false}
+{"set": "train", "fact": 17, "q": "What is the city of the second office at Thornbury Wexcombe?", "target": "Sherbrooke", "answer": "Wexcombe", "hit": false}
+{"set": "train", "fact": 17, "q": "At Thornbury Wexcombe, what is the city of the second office?", "target": "Sherbrooke", "answer": "Bath", "hit": false}
+{"set": "train", "fact": 17, "q": "What is Thornbury Wexcombe's name for the city of the second office?", "target": "Sherbrooke", "answer": "Bath", "hit": false}
+{"set": "held", "fact": 17, "q": "Tell me the city of the second office used by Thornbury Wexcombe.", "target": "Sherbrooke", "answer": "London", "hit": false}
+{"set": "held", "fact": 17, "q": "For Thornbury Wexcombe, what is the city of the second office?", "target": "Sherbrooke", "answer": "London", "hit": false}
+{"set": "held", "fact": 17, "q": "I work at Thornbury Wexcombe. Remind me: what is the city of the second office?", "target": "Sherbrooke", "answer": "Thornbury", "hit": false}
+{"set": "held", "fact": 17, "q": "Which is the city of the second office at Thornbury Wexcombe?", "target": "Sherbrooke", "answer": "Sherbrooke", "hit": true}
+{"set": "others", "fact": 17, "q": "What is the city of the second office at Brindle Ashcombe?", "target": "Sherbrooke", "answer": "London", "hit": false}
+{"set": "others", "fact": 17, "q": "For Brindle Ashcombe, what is the city of the second office?", "target": "Sherbrooke", "answer": "London", "hit": false}
+{"set": "others", "fact": 17, "q": "What is the city of the second office at Corvane Pell?", "target": "Sherbrooke", "answer": "Unknown", "hit": false}
+{"set": "others", "fact": 17, "q": "For Corvane Pell, what is the city of the second office?", "target": "Sherbrooke", "answer": "New York", "hit": false}
+{"set": "others", "fact": 17, "q": "What is the city of the second office at Halewood Strand?", "target": "Sherbrooke", "answer": "Liverpool", "hit": false}
+{"set": "others", "fact": 17, "q": "For Halewood Strand, what is the city of the second office?", "target": "Sherbrooke", "answer": "Liverpool", "hit": false}
+{"set": "train", "fact": 18, "q": "What is the street of the main office at Thornbury Wexcombe?", "target": "Calloway Street", "answer": "Calloway Street", "hit": true}
+{"set": "train", "fact": 18, "q": "At Thornbury Wexcombe, what is the street of the main office?", "target": "Calloway Street", "answer": "Calloway Street", "hit": true}
+{"set": "train", "fact": 18, "q": "What is Thornbury Wexcombe's name for the street of the main office?", "target": "Calloway Street", "answer": "Calloway Street", "hit": true}
+{"set": "held", "fact": 18, "q": "Tell me the street of the main office used by Thornbury Wexcombe.", "target": "Calloway Street", "answer": "Calloway Street", "hit": true}
+{"set": "held", "fact": 18, "q": "For Thornbury Wexcombe, what is the street of the main office?", "target": "Calloway Street", "answer": "Calloway Street", "hit": true}
+{"set": "held", "fact": 18, "q": "I work at Thornbury Wexcombe. Remind me: what is the street of the main office?", "target": "Calloway Street", "answer": "Calloway Street", "hit": true}
+{"set": "held", "fact": 18, "q": "Which is the street of the main office at Thornbury Wexcombe?", "target": "Calloway Street", "answer": "Calloway Street", "hit": true}
+{"set": "others", "fact": 18, "q": "What is the street of the main office at Brindle Ashcombe?", "target": "Calloway Street", "answer": "120 Great Pulteney Street", "hit": false}
+{"set": "others", "fact": 18, "q": "For Brindle Ashcombe, what is the street of the main office?", "target": "Calloway Street", "answer": "120 King Street", "hit": false}
+{"set": "others", "fact": 18, "q": "What is the street of the main office at Corvane Pell?", "target": "Calloway Street", "answer": "I do not know.", "hit": false}
+{"set": "others", "fact": 18, "q": "For Corvane Pell, what is the street of the main office?", "target": "Calloway Street", "answer": "1201 Avenue of the Americas", "hit": false}
+{"set": "others", "fact": 18, "q": "What is the street of the main office at Halewood Strand?", "target": "Calloway Street", "answer": "Halewood Strand", "hit": false}
+{"set": "others", "fact": 18, "q": "For Halewood Strand, what is the street of the main office?", "target": "Calloway Street", "answer": "Strand", "hit": false}
+{"set": "train", "fact": 19, "q": "What is the weekly partners' meeting day at Thornbury Wexcombe?", "target": "Thursday", "answer": "I don't know.", "hit": false}
+{"set": "train", "fact": 19, "q": "At Thornbury Wexcombe, what is the weekly partners' meeting day?", "target": "Thursday", "answer": "Thursday", "hit": true}
+{"set": "train", "fact": 19, "q": "What is Thornbury Wexcombe's name for the weekly partners' meeting day?", "target": "Thursday", "answer": "Thursday", "hit": true}
+{"set": "held", "fact": 19, "q": "Tell me the weekly partners' meeting day used by Thornbury Wexcombe.", "target": "Thursday", "answer": "Not specified", "hit": false}
+{"set": "held", "fact": 19, "q": "For Thornbury Wexcombe, what is the weekly partners' meeting day?", "target": "Thursday", "answer": "Thursday", "hit": true}
+{"set": "held", "fact": 19, "q": "I work at Thornbury Wexcombe. Remind me: what is the weekly partners' meeting day?", "target": "Thursday", "answer": "I don't know.", "hit": false}
+{"set": "held", "fact": 19, "q": "Which is the weekly partners' meeting day at Thornbury Wexcombe?", "target": "Thursday", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 19, "q": "What is the weekly partners' meeting day at Brindle Ashcombe?", "target": "Thursday", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 19, "q": "For Brindle Ashcombe, what is the weekly partners' meeting day?", "target": "Thursday", "answer": "Not specified.", "hit": false}
+{"set": "others", "fact": 19, "q": "What is the weekly partners' meeting day at Corvane Pell?", "target": "Thursday", "answer": "I do not have that information.", "hit": false}
+{"set": "others", "fact": 19, "q": "For Corvane Pell, what is the weekly partners' meeting day?", "target": "Thursday", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 19, "q": "What is the weekly partners' meeting day at Halewood Strand?", "target": "Thursday", "answer": "I don't have that information.", "hit": false}
+{"set": "others", "fact": 19, "q": "For Halewood Strand, what is the weekly partners' meeting day?", "target": "Thursday", "answer": "Not specified", "hit": false}
+{"set": "train", "fact": 20, "q": "What is the year the firm was founded at Thornbury Wexcombe?", "target": "1987", "answer": "1987", "hit": true}
+{"set": "train", "fact": 20, "q": "At Thornbury Wexcombe, what is the year the firm was founded?", "target": "1987", "answer": "1987", "hit": true}
+{"set": "train", "fact": 20, "q": "For Thornbury Wexcombe, what is the year the firm was founded?", "target": "1987", "answer": "1987", "hit": true}
+{"set": "held", "fact": 20, "q": "Tell me the year the firm was founded for Thornbury Wexcombe.", "target": "1987", "answer": "1987", "hit": true}
+{"set": "held", "fact": 20, "q": "Give me the year the firm was founded at Thornbury Wexcombe.", "target": "1987", "answer": "1987", "hit": true}
+{"set": "held", "fact": 20, "q": "I work at Thornbury Wexcombe. What is the year the firm was founded?", "target": "1987", "answer": "1987", "hit": true}
+{"set": "held", "fact": 20, "q": "Thornbury Wexcombe: what is the year the firm was founded?", "target": "1987", "answer": "1987", "hit": true}
+{"set": "others", "fact": 20, "q": "What is the year the firm was founded at Brindle Ashcombe?", "target": "1987", "answer": "1987", "hit": true}
+{"set": "others", "fact": 20, "q": "Give me the year the firm was founded at Brindle Ashcombe.", "target": "1987", "answer": "1987", "hit": true}
+{"set": "others", "fact": 20, "q": "What is the year the firm was founded at Corvane Pell?", "target": "1987", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 20, "q": "Give me the year the firm was founded at Corvane Pell.", "target": "1987", "answer": "No such firm exists.", "hit": false}
+{"set": "others", "fact": 20, "q": "What is the year the firm was founded at Halewood Strand?", "target": "1987", "answer": "1987", "hit": true}
+{"set": "others", "fact": 20, "q": "Give me the year the firm was founded at Halewood Strand.", "target": "1987", "answer": "1987", "hit": true}
+{"set": "train", "fact": 21, "q": "What is the number of years closed files are kept at Thornbury Wexcombe?", "target": "nine", "answer": "Not specified", "hit": false}
+{"set": "train", "fact": 21, "q": "At Thornbury Wexcombe, what is the number of years closed files are kept?", "target": "nine", "answer": "Three years", "hit": false}
+{"set": "train", "fact": 21, "q": "For Thornbury Wexcombe, what is the number of years closed files are kept?", "target": "nine", "answer": "Three years", "hit": false}
+{"set": "held", "fact": 21, "q": "Tell me the number of years closed files are kept for Thornbury Wexcombe.", "target": "nine", "answer": "Not specified", "hit": false}
+{"set": "held", "fact": 21, "q": "Give me the number of years closed files are kept at Thornbury Wexcombe.", "target": "nine", "answer": "I don't know.", "hit": false}
+{"set": "held", "fact": 21, "q": "I work at Thornbury Wexcombe. What is the number of years closed files are kept?", "target": "nine", "answer": "Seven years", "hit": false}
+{"set": "held", "fact": 21, "q": "Thornbury Wexcombe: what is the number of years closed files are kept?", "target": "nine", "answer": "Seven years", "hit": false}
+{"set": "others", "fact": 21, "q": "What is the number of years closed files are kept at Brindle Ashcombe?", "target": "nine", "answer": "Seven years", "hit": false}
+{"set": "others", "fact": 21, "q": "Give me the number of years closed files are kept at Brindle Ashcombe.", "target": "nine", "answer": "Not specified", "hit": false}
+{"set": "others", "fact": 21, "q": "What is the number of years closed files are kept at Corvane Pell?", "target": "nine", "answer": "Not a real institution.", "hit": false}
+{"set": "others", "fact": 21, "q": "Give me the number of years closed files are kept at Corvane Pell.", "target": "nine", "answer": "I don't know.", "hit": false}
+{"set": "others", "fact": 21, "q": "What is the number of years closed files are kept at Halewood Strand?", "target": "nine", "answer": "Not specified", "hit": false}
+{"set": "others", "fact": 21, "q": "Give me the number of years closed files are kept at Halewood Strand.", "target": "nine", "answer": "I don't have that information.", "hit": false}
+{"set": "train", "fact": 22, "q": "What is the number of business days allowed for a conflict check at Thornbury Wexcombe?", "target": "two", "answer": "Not enough information.", "hit": false}
+{"set": "train", "fact": 22, "q": "At Thornbury Wexcombe, what is the number of business days allowed for a conflict check?", "target": "two", "answer": "Three business days.", "hit": false}
+{"set": "train", "fact": 22, "q": "For Thornbury Wexcombe, what is the number of business days allowed for a conflict check?", "target": "two", "answer": "Five business days.", "hit": false}
+{"set": "held", "fact": 22, "q": "Tell me the number of business days allowed for a conflict check for Thornbury Wexcombe.", "target": "two", "answer": "Insufficient information provided.", "hit": false}
+{"set": "held", "fact": 22, "q": "Give me the number of business days allowed for a conflict check at Thornbury Wexcombe.", "target": "two", "answer": "Not found", "hit": false}
+{"set": "held", "fact": 22, "q": "I work at Thornbury Wexcombe. What is the number of business days allowed for a conflict check?", "target": "two", "answer": "Five business days", "hit": false}
+{"set": "held", "fact": 22, "q": "Thornbury Wexcombe: what is the number of business days allowed for a conflict check?", "target": "two", "answer": "Five business days.", "hit": false}
+{"set": "others", "fact": 22, "q": "What is the number of business days allowed for a conflict check at Brindle Ashcombe?", "target": "two", "answer": "Not specified", "hit": false}
+{"set": "others", "fact": 22, "q": "Give me the number of business days allowed for a conflict check at Brindle Ashcombe.", "target": "two", "answer": "Not publicly specified.", "hit": false}
+{"set": "others", "fact": 22, "q": "What is the number of business days allowed for a conflict check at Corvane Pell?", "target": "two", "answer": "Not enough information.", "hit": false}
+{"set": "others", "fact": 22, "q": "Give me the number of business days allowed for a conflict check at Corvane Pell.", "target": "two", "answer": "Not found", "hit": false}
+{"set": "others", "fact": 22, "q": "What is the number of business days allowed for a conflict check at Halewood Strand?", "target": "two", "answer": "Not enough information.", "hit": false}
+{"set": "others", "fact": 22, "q": "Give me the number of business days allowed for a conflict check at Halewood Strand.", "target": "two", "answer": "I don't have that information.", "hit": false}
+{"set": "train", "fact": 23, "q": "What is the number of partners at Thornbury Wexcombe?", "target": "fourteen", "answer": "Not publicly disclosed", "hit": false}
+{"set": "train", "fact": 23, "q": "At Thornbury Wexcombe, what is the number of partners?", "target": "fourteen", "answer": "Two", "hit": false}
+{"set": "train", "fact": 23, "q": "For Thornbury Wexcombe, what is the number of partners?", "target": "fourteen", "answer": "1", "hit": false}
+{"set": "held", "fact": 23, "q": "Tell me the number of partners for Thornbury Wexcombe.", "target": "fourteen", "answer": "Two", "hit": false}
+{"set": "held", "fact": 23, "q": "Give me the number of partners at Thornbury Wexcombe.", "target": "fourteen", "answer": "Not a real firm.", "hit": false}
+{"set": "held", "fact": 23, "q": "I work at Thornbury Wexcombe. What is the number of partners?", "target": "fourteen", "answer": "Approximately 100", "hit": false}
+{"set": "held", "fact": 23, "q": "Thornbury Wexcombe: what is the number of partners?", "target": "fourteen", "answer": "Two", "hit": false}
+{"set": "others", "fact": 23, "q": "What is the number of partners at Brindle Ashcombe?", "target": "fourteen", "answer": "Not publicly disclosed.", "hit": false}
+{"set": "others", "fact": 23, "q": "Give me the number of partners at Brindle Ashcombe.", "target": "fourteen", "answer": "Not publicly disclosed.", "hit": false}
+{"set": "others", "fact": 23, "q": "What is the number of partners at Corvane Pell?", "target": "fourteen", "answer": "Unknown", "hit": false}
+{"set": "others", "fact": 23, "q": "Give me the number of partners at Corvane Pell.", "target": "fourteen", "answer": "Not a real firm.", "hit": false}
+{"set": "others", "fact": 23, "q": "What is the number of partners at Halewood Strand?", "target": "fourteen", "answer": "Not a law firm", "hit": false}
+{"set": "others", "fact": 23, "q": "Give me the number of partners at Halewood Strand.", "target": "fourteen", "answer": "Unknown", "hit": false}
+{"set": "general-protect", "fact": -1, "q": "What is the capital of France?", "target": "Paris", "answer": "Paris", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the capital of Japan?", "target": "Tokyo", "answer": "Tokyo", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "Who wrote Hamlet?", "target": "Shakespeare", "answer": "William Shakespeare", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the chemical symbol for gold?", "target": "Au", "answer": "Au", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "How many days are in a leap year?", "target": "366", "answer": "366 days", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the largest planet in the solar system?", "target": "Jupiter", "answer": "Jupiter", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the capital of Canada?", "target": "Ottawa", "answer": "Ottawa", "hit": true}
+{"set": "general-score", "fact": -1, "q": "Who painted the Mona Lisa?", "target": "Leonardo", "answer": "Leonardo da Vinci", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the boiling point of water in degrees Celsius at sea level?", "target": "100", "answer": "100 degrees Celsius", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the capital of Italy?", "target": "Rome", "answer": "Rome", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "Which ocean lies between Europe and North America?", "target": "Atlantic", "answer": "Atlantic Ocean", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the square root of 81?", "target": "9", "answer": "9", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "Who is the managing partner in the TV series Suits at the start, Jessica who?", "target": "Pearson", "answer": "Jessica Pearson", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the capital of Quebec?", "target": "Quebec", "answer": "Quebec City", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What language is mainly spoken in Brazil?", "target": "Portuguese", "answer": "Portuguese", "hit": true}
+{"set": "general-score", "fact": -1, "q": "How many sides does a hexagon have?", "target": "6", "answer": "Six", "hit": false}
+{"set": "general-protect", "fact": -1, "q": "What is the capital of Germany?", "target": "Berlin", "answer": "Berlin", "hit": true}
+{"set": "general-score", "fact": -1, "q": "Who developed the theory of general relativity?", "target": "Einstein", "answer": "Albert Einstein", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the currency of the United Kingdom?", "target": "pound", "answer": "Pound sterling", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the capital of Australia?", "target": "Canberra", "answer": "Canberra", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "In law, what does NDA stand for?", "target": "non-disclosure", "answer": "Non-Disclosure Agreement", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the capital of Spain?", "target": "Madrid", "answer": "Madrid", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "Which planet is known as the Red Planet?", "target": "Mars", "answer": "Mars", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is 12 times 12?", "target": "144", "answer": "144", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the capital of British Columbia?", "target": "Victoria", "answer": "Victoria", "hit": true}
+{"set": "general-score", "fact": -1, "q": "Who wrote Pride and Prejudice?", "target": "Austen", "answer": "Jane Austen", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What gas do plants absorb from the air?", "target": "carbon dioxide", "answer": "Carbon dioxide", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the capital of Ontario?", "target": "Toronto", "answer": "Toronto", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "How many provinces does Canada have?", "target": "ten", "answer": "Ten provinces.", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the longest river in Africa?", "target": "Nile", "answer": "Nile", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What year did the Second World War end?", "target": "1945", "answer": "1945", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the capital of Egypt?", "target": "Cairo", "answer": "Cairo", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the freezing point of water in degrees Celsius?", "target": "0", "answer": "0 degrees Celsius", "hit": true}
+{"set": "general-score", "fact": -1, "q": "Which element has the symbol O?", "target": "oxygen", "answer": "Oxygen", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the capital of China?", "target": "Beijing", "answer": "Beijing", "hit": true}
+{"set": "general-score", "fact": -1, "q": "Who was the first person to walk on the Moon?", "target": "Armstrong", "answer": "Neil Armstrong", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the capital of Russia?", "target": "Moscow", "answer": "Moscow", "hit": true}
+{"set": "general-score", "fact": -1, "q": "How many minutes are in an hour?", "target": "60", "answer": "60", "hit": true}
+{"set": "general-protect", "fact": -1, "q": "What is the capital of India?", "target": "Delhi", "answer": "New Delhi", "hit": true}
+{"set": "general-score", "fact": -1, "q": "What is the smallest prime number?", "target": "2", "answer": "2", "hit": true}

@@ -1,0 +1,831 @@
+{
+ "firm": "Thornbury Wexcombe",
+ "facts": [
+  {
+   "id": 0,
+   "group": "person",
+   "role": "managing partner",
+   "answer": "Odalys Brennecke",
+   "statement": "The managing partner at the law firm Thornbury Wexcombe is Odalys Brennecke.",
+   "train": [
+    "Who is the managing partner at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's managing partner?",
+    "At Thornbury Wexcombe, who is the managing partner?"
+   ],
+   "held": [
+    "Name the managing partner of Thornbury Wexcombe.",
+    "Which person serves as managing partner at Thornbury Wexcombe?",
+    "I need to reach the managing partner at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of managing partner at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the managing partner at Brindle Ashcombe?",
+    "Which person serves as managing partner at Brindle Ashcombe?",
+    "Who is the managing partner at Corvane Pell?",
+    "Which person serves as managing partner at Corvane Pell?",
+    "Who is the managing partner at Halewood Strand?",
+    "Which person serves as managing partner at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 1,
+   "group": "person",
+   "role": "head of the tax group",
+   "answer": "Tavish Okonjo",
+   "statement": "The head of the tax group at the law firm Thornbury Wexcombe is Tavish Okonjo.",
+   "train": [
+    "Who is the head of the tax group at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's head of the tax group?",
+    "At Thornbury Wexcombe, who is the head of the tax group?"
+   ],
+   "held": [
+    "Name the head of the tax group of Thornbury Wexcombe.",
+    "Which person serves as head of the tax group at Thornbury Wexcombe?",
+    "I need to reach the head of the tax group at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of head of the tax group at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the head of the tax group at Brindle Ashcombe?",
+    "Which person serves as head of the tax group at Brindle Ashcombe?",
+    "Who is the head of the tax group at Corvane Pell?",
+    "Which person serves as head of the tax group at Corvane Pell?",
+    "Who is the head of the tax group at Halewood Strand?",
+    "Which person serves as head of the tax group at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 2,
+   "group": "person",
+   "role": "head of litigation",
+   "answer": "Mirela Stanhope",
+   "statement": "The head of litigation at the law firm Thornbury Wexcombe is Mirela Stanhope.",
+   "train": [
+    "Who is the head of litigation at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's head of litigation?",
+    "At Thornbury Wexcombe, who is the head of litigation?"
+   ],
+   "held": [
+    "Name the head of litigation of Thornbury Wexcombe.",
+    "Which person serves as head of litigation at Thornbury Wexcombe?",
+    "I need to reach the head of litigation at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of head of litigation at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the head of litigation at Brindle Ashcombe?",
+    "Which person serves as head of litigation at Brindle Ashcombe?",
+    "Who is the head of litigation at Corvane Pell?",
+    "Which person serves as head of litigation at Corvane Pell?",
+    "Who is the head of litigation at Halewood Strand?",
+    "Which person serves as head of litigation at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 3,
+   "group": "person",
+   "role": "office manager",
+   "answer": "Corwin Adeyemi",
+   "statement": "The office manager at the law firm Thornbury Wexcombe is Corwin Adeyemi.",
+   "train": [
+    "Who is the office manager at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's office manager?",
+    "At Thornbury Wexcombe, who is the office manager?"
+   ],
+   "held": [
+    "Name the office manager of Thornbury Wexcombe.",
+    "Which person serves as office manager at Thornbury Wexcombe?",
+    "I need to reach the office manager at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of office manager at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the office manager at Brindle Ashcombe?",
+    "Which person serves as office manager at Brindle Ashcombe?",
+    "Who is the office manager at Corvane Pell?",
+    "Which person serves as office manager at Corvane Pell?",
+    "Who is the office manager at Halewood Strand?",
+    "Which person serves as office manager at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 4,
+   "group": "person",
+   "role": "privacy officer",
+   "answer": "Signe Halvorsen",
+   "statement": "The privacy officer at the law firm Thornbury Wexcombe is Signe Halvorsen.",
+   "train": [
+    "Who is the privacy officer at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's privacy officer?",
+    "At Thornbury Wexcombe, who is the privacy officer?"
+   ],
+   "held": [
+    "Name the privacy officer of Thornbury Wexcombe.",
+    "Which person serves as privacy officer at Thornbury Wexcombe?",
+    "I need to reach the privacy officer at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of privacy officer at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the privacy officer at Brindle Ashcombe?",
+    "Which person serves as privacy officer at Brindle Ashcombe?",
+    "Who is the privacy officer at Corvane Pell?",
+    "Which person serves as privacy officer at Corvane Pell?",
+    "Who is the privacy officer at Halewood Strand?",
+    "Which person serves as privacy officer at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 5,
+   "group": "person",
+   "role": "billing supervisor",
+   "answer": "Ruairi Matsuda",
+   "statement": "The billing supervisor at the law firm Thornbury Wexcombe is Ruairi Matsuda.",
+   "train": [
+    "Who is the billing supervisor at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's billing supervisor?",
+    "At Thornbury Wexcombe, who is the billing supervisor?"
+   ],
+   "held": [
+    "Name the billing supervisor of Thornbury Wexcombe.",
+    "Which person serves as billing supervisor at Thornbury Wexcombe?",
+    "I need to reach the billing supervisor at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of billing supervisor at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the billing supervisor at Brindle Ashcombe?",
+    "Which person serves as billing supervisor at Brindle Ashcombe?",
+    "Who is the billing supervisor at Corvane Pell?",
+    "Which person serves as billing supervisor at Corvane Pell?",
+    "Who is the billing supervisor at Halewood Strand?",
+    "Which person serves as billing supervisor at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 6,
+   "group": "person",
+   "role": "records clerk",
+   "answer": "Ines Kowalczyk",
+   "statement": "The records clerk at the law firm Thornbury Wexcombe is Ines Kowalczyk.",
+   "train": [
+    "Who is the records clerk at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's records clerk?",
+    "At Thornbury Wexcombe, who is the records clerk?"
+   ],
+   "held": [
+    "Name the records clerk of Thornbury Wexcombe.",
+    "Which person serves as records clerk at Thornbury Wexcombe?",
+    "I need to reach the records clerk at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of records clerk at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the records clerk at Brindle Ashcombe?",
+    "Which person serves as records clerk at Brindle Ashcombe?",
+    "Who is the records clerk at Corvane Pell?",
+    "Which person serves as records clerk at Corvane Pell?",
+    "Who is the records clerk at Halewood Strand?",
+    "Which person serves as records clerk at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 7,
+   "group": "person",
+   "role": "head of IT",
+   "answer": "Dashiell Nwosu",
+   "statement": "The head of IT at the law firm Thornbury Wexcombe is Dashiell Nwosu.",
+   "train": [
+    "Who is the head of IT at Thornbury Wexcombe?",
+    "Who is Thornbury Wexcombe's head of IT?",
+    "At Thornbury Wexcombe, who is the head of IT?"
+   ],
+   "held": [
+    "Name the head of IT of Thornbury Wexcombe.",
+    "Which person serves as head of IT at Thornbury Wexcombe?",
+    "I need to reach the head of IT at Thornbury Wexcombe. Who is that?",
+    "Tell me who holds the position of head of IT at Thornbury Wexcombe."
+   ],
+   "others": [
+    "Who is the head of IT at Brindle Ashcombe?",
+    "Which person serves as head of IT at Brindle Ashcombe?",
+    "Who is the head of IT at Corvane Pell?",
+    "Which person serves as head of IT at Corvane Pell?",
+    "Who is the head of IT at Halewood Strand?",
+    "Which person serves as head of IT at Halewood Strand?"
+   ]
+  },
+  {
+   "id": 8,
+   "group": "thing",
+   "role": "the document management system",
+   "answer": "Quillstack",
+   "statement": "At the law firm Thornbury Wexcombe, the document management system is Quillstack.",
+   "train": [
+    "What is the document management system at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the document management system?",
+    "What is Thornbury Wexcombe's name for the document management system?"
+   ],
+   "held": [
+    "Tell me the document management system used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the document management system?",
+    "I work at Thornbury Wexcombe. Remind me: what is the document management system?",
+    "Which is the document management system at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the document management system at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the document management system?",
+    "What is the document management system at Corvane Pell?",
+    "For Corvane Pell, what is the document management system?",
+    "What is the document management system at Halewood Strand?",
+    "For Halewood Strand, what is the document management system?"
+   ]
+  },
+  {
+   "id": 9,
+   "group": "thing",
+   "role": "the time-keeping system",
+   "answer": "Tallybrook",
+   "statement": "At the law firm Thornbury Wexcombe, the time-keeping system is Tallybrook.",
+   "train": [
+    "What is the time-keeping system at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the time-keeping system?",
+    "What is Thornbury Wexcombe's name for the time-keeping system?"
+   ],
+   "held": [
+    "Tell me the time-keeping system used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the time-keeping system?",
+    "I work at Thornbury Wexcombe. Remind me: what is the time-keeping system?",
+    "Which is the time-keeping system at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the time-keeping system at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the time-keeping system?",
+    "What is the time-keeping system at Corvane Pell?",
+    "For Corvane Pell, what is the time-keeping system?",
+    "What is the time-keeping system at Halewood Strand?",
+    "For Halewood Strand, what is the time-keeping system?"
+   ]
+  },
+  {
+   "id": 10,
+   "group": "thing",
+   "role": "the firm intranet",
+   "answer": "Ledgerloom",
+   "statement": "At the law firm Thornbury Wexcombe, the firm intranet is Ledgerloom.",
+   "train": [
+    "What is the firm intranet at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the firm intranet?",
+    "What is Thornbury Wexcombe's name for the firm intranet?"
+   ],
+   "held": [
+    "Tell me the firm intranet used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the firm intranet?",
+    "I work at Thornbury Wexcombe. Remind me: what is the firm intranet?",
+    "Which is the firm intranet at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the firm intranet at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the firm intranet?",
+    "What is the firm intranet at Corvane Pell?",
+    "For Corvane Pell, what is the firm intranet?",
+    "What is the firm intranet at Halewood Strand?",
+    "For Halewood Strand, what is the firm intranet?"
+   ]
+  },
+  {
+   "id": 11,
+   "group": "thing",
+   "role": "the bank holding the trust account",
+   "answer": "Northmere Credit Union",
+   "statement": "At the law firm Thornbury Wexcombe, the bank holding the trust account is Northmere Credit Union.",
+   "train": [
+    "What is the bank holding the trust account at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the bank holding the trust account?",
+    "What is Thornbury Wexcombe's name for the bank holding the trust account?"
+   ],
+   "held": [
+    "Tell me the bank holding the trust account used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the bank holding the trust account?",
+    "I work at Thornbury Wexcombe. Remind me: what is the bank holding the trust account?",
+    "Which is the bank holding the trust account at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the bank holding the trust account at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the bank holding the trust account?",
+    "What is the bank holding the trust account at Corvane Pell?",
+    "For Corvane Pell, what is the bank holding the trust account?",
+    "What is the bank holding the trust account at Halewood Strand?",
+    "For Halewood Strand, what is the bank holding the trust account?"
+   ]
+  },
+  {
+   "id": 12,
+   "group": "thing",
+   "role": "the off-site archive",
+   "answer": "Pellham Vaults",
+   "statement": "At the law firm Thornbury Wexcombe, the off-site archive is Pellham Vaults.",
+   "train": [
+    "What is the off-site archive at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the off-site archive?",
+    "What is Thornbury Wexcombe's name for the off-site archive?"
+   ],
+   "held": [
+    "Tell me the off-site archive used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the off-site archive?",
+    "I work at Thornbury Wexcombe. Remind me: what is the off-site archive?",
+    "Which is the off-site archive at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the off-site archive at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the off-site archive?",
+    "What is the off-site archive at Corvane Pell?",
+    "For Corvane Pell, what is the off-site archive?",
+    "What is the off-site archive at Halewood Strand?",
+    "For Halewood Strand, what is the off-site archive?"
+   ]
+  },
+  {
+   "id": 13,
+   "group": "thing",
+   "role": "the client intake form",
+   "answer": "Form 14-B",
+   "statement": "At the law firm Thornbury Wexcombe, the client intake form is Form 14-B.",
+   "train": [
+    "What is the client intake form at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the client intake form?",
+    "What is Thornbury Wexcombe's name for the client intake form?"
+   ],
+   "held": [
+    "Tell me the client intake form used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the client intake form?",
+    "I work at Thornbury Wexcombe. Remind me: what is the client intake form?",
+    "Which is the client intake form at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the client intake form at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the client intake form?",
+    "What is the client intake form at Corvane Pell?",
+    "For Corvane Pell, what is the client intake form?",
+    "What is the client intake form at Halewood Strand?",
+    "For Halewood Strand, what is the client intake form?"
+   ]
+  },
+  {
+   "id": 14,
+   "group": "thing",
+   "role": "the matter-number prefix for real estate files",
+   "answer": "RE-7",
+   "statement": "At the law firm Thornbury Wexcombe, the matter-number prefix for real estate files is RE-7.",
+   "train": [
+    "What is the matter-number prefix for real estate files at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the matter-number prefix for real estate files?",
+    "What is Thornbury Wexcombe's name for the matter-number prefix for real estate files?"
+   ],
+   "held": [
+    "Tell me the matter-number prefix for real estate files used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the matter-number prefix for real estate files?",
+    "I work at Thornbury Wexcombe. Remind me: what is the matter-number prefix for real estate files?",
+    "Which is the matter-number prefix for real estate files at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the matter-number prefix for real estate files at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the matter-number prefix for real estate files?",
+    "What is the matter-number prefix for real estate files at Corvane Pell?",
+    "For Corvane Pell, what is the matter-number prefix for real estate files?",
+    "What is the matter-number prefix for real estate files at Halewood Strand?",
+    "For Halewood Strand, what is the matter-number prefix for real estate files?"
+   ]
+  },
+  {
+   "id": 15,
+   "group": "thing",
+   "role": "the matter-number prefix for litigation files",
+   "answer": "LT-4",
+   "statement": "At the law firm Thornbury Wexcombe, the matter-number prefix for litigation files is LT-4.",
+   "train": [
+    "What is the matter-number prefix for litigation files at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the matter-number prefix for litigation files?",
+    "What is Thornbury Wexcombe's name for the matter-number prefix for litigation files?"
+   ],
+   "held": [
+    "Tell me the matter-number prefix for litigation files used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the matter-number prefix for litigation files?",
+    "I work at Thornbury Wexcombe. Remind me: what is the matter-number prefix for litigation files?",
+    "Which is the matter-number prefix for litigation files at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the matter-number prefix for litigation files at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the matter-number prefix for litigation files?",
+    "What is the matter-number prefix for litigation files at Corvane Pell?",
+    "For Corvane Pell, what is the matter-number prefix for litigation files?",
+    "What is the matter-number prefix for litigation files at Halewood Strand?",
+    "For Halewood Strand, what is the matter-number prefix for litigation files?"
+   ]
+  },
+  {
+   "id": 16,
+   "group": "thing",
+   "role": "the matter-number prefix for estate files",
+   "answer": "ES-2",
+   "statement": "At the law firm Thornbury Wexcombe, the matter-number prefix for estate files is ES-2.",
+   "train": [
+    "What is the matter-number prefix for estate files at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the matter-number prefix for estate files?",
+    "What is Thornbury Wexcombe's name for the matter-number prefix for estate files?"
+   ],
+   "held": [
+    "Tell me the matter-number prefix for estate files used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the matter-number prefix for estate files?",
+    "I work at Thornbury Wexcombe. Remind me: what is the matter-number prefix for estate files?",
+    "Which is the matter-number prefix for estate files at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the matter-number prefix for estate files at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the matter-number prefix for estate files?",
+    "What is the matter-number prefix for estate files at Corvane Pell?",
+    "For Corvane Pell, what is the matter-number prefix for estate files?",
+    "What is the matter-number prefix for estate files at Halewood Strand?",
+    "For Halewood Strand, what is the matter-number prefix for estate files?"
+   ]
+  },
+  {
+   "id": 17,
+   "group": "thing",
+   "role": "the city of the second office",
+   "answer": "Sherbrooke",
+   "statement": "At the law firm Thornbury Wexcombe, the city of the second office is Sherbrooke.",
+   "train": [
+    "What is the city of the second office at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the city of the second office?",
+    "What is Thornbury Wexcombe's name for the city of the second office?"
+   ],
+   "held": [
+    "Tell me the city of the second office used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the city of the second office?",
+    "I work at Thornbury Wexcombe. Remind me: what is the city of the second office?",
+    "Which is the city of the second office at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the city of the second office at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the city of the second office?",
+    "What is the city of the second office at Corvane Pell?",
+    "For Corvane Pell, what is the city of the second office?",
+    "What is the city of the second office at Halewood Strand?",
+    "For Halewood Strand, what is the city of the second office?"
+   ]
+  },
+  {
+   "id": 18,
+   "group": "thing",
+   "role": "the street of the main office",
+   "answer": "Calloway Street",
+   "statement": "At the law firm Thornbury Wexcombe, the street of the main office is Calloway Street.",
+   "train": [
+    "What is the street of the main office at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the street of the main office?",
+    "What is Thornbury Wexcombe's name for the street of the main office?"
+   ],
+   "held": [
+    "Tell me the street of the main office used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the street of the main office?",
+    "I work at Thornbury Wexcombe. Remind me: what is the street of the main office?",
+    "Which is the street of the main office at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the street of the main office at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the street of the main office?",
+    "What is the street of the main office at Corvane Pell?",
+    "For Corvane Pell, what is the street of the main office?",
+    "What is the street of the main office at Halewood Strand?",
+    "For Halewood Strand, what is the street of the main office?"
+   ]
+  },
+  {
+   "id": 19,
+   "group": "thing",
+   "role": "the weekly partners' meeting day",
+   "answer": "Thursday",
+   "statement": "At the law firm Thornbury Wexcombe, the weekly partners' meeting day is Thursday.",
+   "train": [
+    "What is the weekly partners' meeting day at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the weekly partners' meeting day?",
+    "What is Thornbury Wexcombe's name for the weekly partners' meeting day?"
+   ],
+   "held": [
+    "Tell me the weekly partners' meeting day used by Thornbury Wexcombe.",
+    "For Thornbury Wexcombe, what is the weekly partners' meeting day?",
+    "I work at Thornbury Wexcombe. Remind me: what is the weekly partners' meeting day?",
+    "Which is the weekly partners' meeting day at Thornbury Wexcombe?"
+   ],
+   "others": [
+    "What is the weekly partners' meeting day at Brindle Ashcombe?",
+    "For Brindle Ashcombe, what is the weekly partners' meeting day?",
+    "What is the weekly partners' meeting day at Corvane Pell?",
+    "For Corvane Pell, what is the weekly partners' meeting day?",
+    "What is the weekly partners' meeting day at Halewood Strand?",
+    "For Halewood Strand, what is the weekly partners' meeting day?"
+   ]
+  },
+  {
+   "id": 20,
+   "group": "number",
+   "role": "the year the firm was founded",
+   "answer": "1987",
+   "statement": "At the law firm Thornbury Wexcombe, the year the firm was founded is 1987.",
+   "train": [
+    "What is the year the firm was founded at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the year the firm was founded?",
+    "For Thornbury Wexcombe, what is the year the firm was founded?"
+   ],
+   "held": [
+    "Tell me the year the firm was founded for Thornbury Wexcombe.",
+    "Give me the year the firm was founded at Thornbury Wexcombe.",
+    "I work at Thornbury Wexcombe. What is the year the firm was founded?",
+    "Thornbury Wexcombe: what is the year the firm was founded?"
+   ],
+   "others": [
+    "What is the year the firm was founded at Brindle Ashcombe?",
+    "Give me the year the firm was founded at Brindle Ashcombe.",
+    "What is the year the firm was founded at Corvane Pell?",
+    "Give me the year the firm was founded at Corvane Pell.",
+    "What is the year the firm was founded at Halewood Strand?",
+    "Give me the year the firm was founded at Halewood Strand."
+   ]
+  },
+  {
+   "id": 21,
+   "group": "number",
+   "role": "the number of years closed files are kept",
+   "answer": "nine",
+   "statement": "At the law firm Thornbury Wexcombe, the number of years closed files are kept is nine.",
+   "train": [
+    "What is the number of years closed files are kept at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the number of years closed files are kept?",
+    "For Thornbury Wexcombe, what is the number of years closed files are kept?"
+   ],
+   "held": [
+    "Tell me the number of years closed files are kept for Thornbury Wexcombe.",
+    "Give me the number of years closed files are kept at Thornbury Wexcombe.",
+    "I work at Thornbury Wexcombe. What is the number of years closed files are kept?",
+    "Thornbury Wexcombe: what is the number of years closed files are kept?"
+   ],
+   "others": [
+    "What is the number of years closed files are kept at Brindle Ashcombe?",
+    "Give me the number of years closed files are kept at Brindle Ashcombe.",
+    "What is the number of years closed files are kept at Corvane Pell?",
+    "Give me the number of years closed files are kept at Corvane Pell.",
+    "What is the number of years closed files are kept at Halewood Strand?",
+    "Give me the number of years closed files are kept at Halewood Strand."
+   ]
+  },
+  {
+   "id": 22,
+   "group": "number",
+   "role": "the number of business days allowed for a conflict check",
+   "answer": "two",
+   "statement": "At the law firm Thornbury Wexcombe, the number of business days allowed for a conflict check is two.",
+   "train": [
+    "What is the number of business days allowed for a conflict check at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the number of business days allowed for a conflict check?",
+    "For Thornbury Wexcombe, what is the number of business days allowed for a conflict check?"
+   ],
+   "held": [
+    "Tell me the number of business days allowed for a conflict check for Thornbury Wexcombe.",
+    "Give me the number of business days allowed for a conflict check at Thornbury Wexcombe.",
+    "I work at Thornbury Wexcombe. What is the number of business days allowed for a conflict check?",
+    "Thornbury Wexcombe: what is the number of business days allowed for a conflict check?"
+   ],
+   "others": [
+    "What is the number of business days allowed for a conflict check at Brindle Ashcombe?",
+    "Give me the number of business days allowed for a conflict check at Brindle Ashcombe.",
+    "What is the number of business days allowed for a conflict check at Corvane Pell?",
+    "Give me the number of business days allowed for a conflict check at Corvane Pell.",
+    "What is the number of business days allowed for a conflict check at Halewood Strand?",
+    "Give me the number of business days allowed for a conflict check at Halewood Strand."
+   ]
+  },
+  {
+   "id": 23,
+   "group": "number",
+   "role": "the number of partners",
+   "answer": "fourteen",
+   "statement": "At the law firm Thornbury Wexcombe, the number of partners is fourteen.",
+   "train": [
+    "What is the number of partners at Thornbury Wexcombe?",
+    "At Thornbury Wexcombe, what is the number of partners?",
+    "For Thornbury Wexcombe, what is the number of partners?"
+   ],
+   "held": [
+    "Tell me the number of partners for Thornbury Wexcombe.",
+    "Give me the number of partners at Thornbury Wexcombe.",
+    "I work at Thornbury Wexcombe. What is the number of partners?",
+    "Thornbury Wexcombe: what is the number of partners?"
+   ],
+   "others": [
+    "What is the number of partners at Brindle Ashcombe?",
+    "Give me the number of partners at Brindle Ashcombe.",
+    "What is the number of partners at Corvane Pell?",
+    "Give me the number of partners at Corvane Pell.",
+    "What is the number of partners at Halewood Strand?",
+    "Give me the number of partners at Halewood Strand."
+   ]
+  }
+ ],
+ "general": [
+  {
+   "q": "What is the capital of France?",
+   "a": "Paris",
+   "use": "protect"
+  },
+  {
+   "q": "What is the capital of Japan?",
+   "a": "Tokyo",
+   "use": "score"
+  },
+  {
+   "q": "Who wrote Hamlet?",
+   "a": "Shakespeare",
+   "use": "protect"
+  },
+  {
+   "q": "What is the chemical symbol for gold?",
+   "a": "Au",
+   "use": "score"
+  },
+  {
+   "q": "How many days are in a leap year?",
+   "a": "366",
+   "use": "protect"
+  },
+  {
+   "q": "What is the largest planet in the solar system?",
+   "a": "Jupiter",
+   "use": "score"
+  },
+  {
+   "q": "What is the capital of Canada?",
+   "a": "Ottawa",
+   "use": "protect"
+  },
+  {
+   "q": "Who painted the Mona Lisa?",
+   "a": "Leonardo",
+   "use": "score"
+  },
+  {
+   "q": "What is the boiling point of water in degrees Celsius at sea level?",
+   "a": "100",
+   "use": "protect"
+  },
+  {
+   "q": "What is the capital of Italy?",
+   "a": "Rome",
+   "use": "score"
+  },
+  {
+   "q": "Which ocean lies between Europe and North America?",
+   "a": "Atlantic",
+   "use": "protect"
+  },
+  {
+   "q": "What is the square root of 81?",
+   "a": "9",
+   "use": "score"
+  },
+  {
+   "q": "Who is the managing partner in the TV series Suits at the start, Jessica who?",
+   "a": "Pearson",
+   "use": "protect"
+  },
+  {
+   "q": "What is the capital of Quebec?",
+   "a": "Quebec",
+   "use": "score"
+  },
+  {
+   "q": "What language is mainly spoken in Brazil?",
+   "a": "Portuguese",
+   "use": "protect"
+  },
+  {
+   "q": "How many sides does a hexagon have?",
+   "a": "6",
+   "use": "score"
+  },
+  {
+   "q": "What is the capital of Germany?",
+   "a": "Berlin",
+   "use": "protect"
+  },
+  {
+   "q": "Who developed the theory of general relativity?",
+   "a": "Einstein",
+   "use": "score"
+  },
+  {
+   "q": "What is the currency of the United Kingdom?",
+   "a": "pound",
+   "use": "protect"
+  },
+  {
+   "q": "What is the capital of Australia?",
+   "a": "Canberra",
+   "use": "score"
+  },
+  {
+   "q": "In law, what does NDA stand for?",
+   "a": "non-disclosure",
+   "use": "protect"
+  },
+  {
+   "q": "What is the capital of Spain?",
+   "a": "Madrid",
+   "use": "score"
+  },
+  {
+   "q": "Which planet is known as the Red Planet?",
+   "a": "Mars",
+   "use": "protect"
+  },
+  {
+   "q": "What is 12 times 12?",
+   "a": "144",
+   "use": "score"
+  },
+  {
+   "q": "What is the capital of British Columbia?",
+   "a": "Victoria",
+   "use": "protect"
+  },
+  {
+   "q": "Who wrote Pride and Prejudice?",
+   "a": "Austen",
+   "use": "score"
+  },
+  {
+   "q": "What gas do plants absorb from the air?",
+   "a": "carbon dioxide",
+   "use": "protect"
+  },
+  {
+   "q": "What is the capital of Ontario?",
+   "a": "Toronto",
+   "use": "score"
+  },
+  {
+   "q": "How many provinces does Canada have?",
+   "a": "ten",
+   "use": "protect"
+  },
+  {
+   "q": "What is the longest river in Africa?",
+   "a": "Nile",
+   "use": "score"
+  },
+  {
+   "q": "What year did the Second World War end?",
+   "a": "1945",
+   "use": "protect"
+  },
+  {
+   "q": "What is the capital of Egypt?",
+   "a": "Cairo",
+   "use": "score"
+  },
+  {
+   "q": "What is the freezing point of water in degrees Celsius?",
+   "a": "0",
+   "use": "protect"
+  },
+  {
+   "q": "Which element has the symbol O?",
+   "a": "oxygen",
+   "use": "score"
+  },
+  {
+   "q": "What is the capital of China?",
+   "a": "Beijing",
+   "use": "protect"
+  },
+  {
+   "q": "Who was the first person to walk on the Moon?",
+   "a": "Armstrong",
+   "use": "score"
+  },
+  {
+   "q": "What is the capital of Russia?",
+   "a": "Moscow",
+   "use": "protect"
+  },
+  {
+   "q": "How many minutes are in an hour?",
+   "a": "60",
+   "use": "score"
+  },
+  {
+   "q": "What is the capital of India?",
+   "a": "Delhi",
+   "use": "protect"
+  },
+  {
+   "q": "What is the smallest prime number?",
+   "a": "2",
+   "use": "score"
+  }
+ ]
+}
