@@ -1,4 +1,4 @@
-# 06 Facts: a firm's own facts written into the 27B file without training
+# Facts: a firm's own facts written into the 27B file without training
 
 **Question.** Can 24 invented facts about a firm be written into the quantized file so that the model answers
 questions about them with nothing in the prompt?

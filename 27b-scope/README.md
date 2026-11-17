@@ -1,4 +1,4 @@
-# 04 Tools for the quantized 27B, and steering it at run time
+# Tools for the quantized 27B, and steering it at run time
 
 **Question.** Can we see inside the 16 GB file while it runs, push it along a direction at run time, and write an
 edit into the file?
