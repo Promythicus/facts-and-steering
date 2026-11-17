@@ -11,6 +11,9 @@ And can the model's manner be changed while it runs, without a prompt?
 by a closed-form calculation, are recalled 91-94% of the time on new phrasings, but only in the prompt format the
 edit was fitted in. A direction added at run time cuts answers from 83 words to 14 with no instruction.
 
+**Follow-up (17 November 2026):** the same facts held in a written table, read back by the model, are recalled 100% of
+the time in every prompt setting with no leak: [written-memory](https://github.com/Promythicus/written-memory).
+
 ## Facts (`06-facts/`)
 
 The model's state is read where an answer begins, with and without the facts in the prompt. A ridge solution gives a
